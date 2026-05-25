@@ -35,4 +35,4 @@ Your Izadora app will be live at a Vercel URL like:
 - The conversational AI (Izadora persona) uses Claude Opus
 - Translation uses Claude Sonnet (faster, cheaper)
 - No Google Cloud TTS needed yet — using browser voices for now
-- Can add Google TTS later for better pronunciation
+- Can add Google TTS later for better pronunciation 
